@@ -2,5 +2,5 @@ resolusi
 - sukses
 - 1 miliar pertama
 - keliling dunia
-- membuat ip sendiri
-- 
+-
+- membuat media 
